@@ -14,9 +14,9 @@ timezone: Asai/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 괴발개발 # the main title
+title: 팔만뻘짓대장경 # the main title
 
-tagline: 공부하며 행한 뻘짓과 정리 사이 # it will display as the subtitle
+tagline: 나이든 초보🐥와 GPT선생이 함께 하는 싱글벙글 삽질 모험기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   #초보 #Back-End #Front-End #Spring #JAVA #Ruby #React #technical writing
@@ -34,12 +34,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 우당탕탕춉춉이
+  name: 괴발개발
   email: mjay.do@gmail.com # change to your email address
-  links:
+#  links:
     # The first element serves as the copyright owner's link
   #  - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+#    - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -99,6 +99,7 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
