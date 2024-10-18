@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  mj0501github:
+    image: mj0501github
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:3000
